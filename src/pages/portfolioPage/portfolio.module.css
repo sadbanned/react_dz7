@@ -1,0 +1,39 @@
+.button{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    top: 100px;
+    left: 600px
+}
+p{
+    width: 500px;
+}
+
+.portfolio{
+    padding: 20px;
+    height: 768px;
+}
+
+.background{
+    position: absolute;
+    z-index: 1;
+    margin-left: -20px;
+    margin-top: -100px;
+}
+.text{
+    position: absolute;
+    z-index: 3;
+    left: 470px;
+    top: 100px;
+}
+.sph{
+    font-size: 138px;
+    color: red;
+}
+.prj{
+    font-size: 96px;
+    color: #efefef;
+    font-weight: 200;
+    margin-top: -170px;
+    margin-left: 197px;
+}

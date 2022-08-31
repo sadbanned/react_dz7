@@ -1,0 +1,16 @@
+.menu {
+    width: 100%;
+    box-sizing: border-box;
+    display: inline-flex;
+    justify-content: space-between;
+    background-color: #ccc;
+    list-style-type: none;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.link:global(.active){
+    color: seagreen;
+    font-weight: bold;
+    
+}
